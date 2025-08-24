@@ -1,0 +1,8 @@
+name: fun-with-maps
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - osmnx=2.0.6
+  - ipykernel
